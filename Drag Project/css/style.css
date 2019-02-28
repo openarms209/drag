@@ -1,0 +1,86 @@
+.header{
+background-color: black;
+padding: 20px;
+border: none;
+}
+.boot{
+  height: 80px;
+   width: auto;
+   margin-top: -30px;
+   margin-left: 28%;
+}
+.menu{
+  color: #fff;
+  margin-right: 5%;
+}
+.slide{
+  border: none;
+}
+.cola{
+    background-color: transparent;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 95px;
+
+}
+#pa{
+  color: #fff;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 15px;
+
+}
+.map{
+  margin-top: 13px;
+  height: 200px;
+  width: 350px;
+  margin-left: 70px;
+}
+.last{
+  background-color: black;
+}
+.inpt{
+  color: #fff;
+}
+.ioc{
+  color: white;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.noc{
+  color: white;
+  font-style: italic;
+}
+.fb{
+  margin-top: 30px;
+  color: #fff;
+}
+.iioinfo{
+  font-size: 40px;
+}
+.nopx{
+  color: #fff;
+  font-size: 15px;
+}
+.name{
+  color: green;
+}
+.coop{
+  background-color: black;
+  color: #fff;
+}
+.bgimg{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  opacity: 50%;
+
+}
+.cood{
+  margin-left: 40%;
+}
